@@ -1,4 +1,5 @@
-user_uuid="593e2da1-9e02-484f-92a4-9bc1ef6e5250"
-bucket_name="sebitas-593e2da1-9e02-484f-92a4-9bc1ef6e5250"
-index_html_filepath="/workspace/terraform-beginner-bootcamp-2023/public/index.html"
-error_html_filepath="/workspace/terraform-beginner-bootcamp-2023/public/error.html"
+user_uuid           = "593e2da1-9e02-484f-92a4-9bc1ef6e5250"
+bucket_name.        = "sebitas-593e2da1-9e02-484f-92a4-9bc1ef6e5250"
+index_html_filepath = "/workspace/terraform-beginner-bootcamp-2023/public/index.html"
+error_html_filepath = "/workspace/terraform-beginner-bootcamp-2023/public/error.html"
+content_version     = 1
